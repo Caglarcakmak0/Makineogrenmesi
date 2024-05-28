@@ -1,0 +1,3 @@
+I created this machine learning model based on real estate data from Bangalore, India. I cleaned the data using numpy, sklearn, pandas and GridSearchCV.
+I examined the structural and statistical properties of the dataset and made visualisations, then identified outliers and performed hyperparameter optimisation.
+Finally, I built a website and deployed my model into it.
